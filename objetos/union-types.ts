@@ -1,5 +1,7 @@
 (()=> {
 
+    //CREACIÓN DE UN TIPO DE OBJETO (NO TIENE EQUIVALENTE EN JS)
+
     type Hero = {
         name: string;
         age?: number;
